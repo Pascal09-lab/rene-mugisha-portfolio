@@ -1,1 +1,10 @@
+![skills](https://github.com/user-attachments/assets/e72049a8-149e-4001-bbb6-4a1dc9c9d4d7)
+![recommendations](https://github.com/user-attachments/assets/781a1b54-527e-4030-b101-d286c123c2e9)
+![projects](https://github.com/user-attachments/assets/1cd015a8-0f74-480a-beba-6144360384bd)
+![profile_name](https://github.com/user-attachments/assets/3b0275ba-9d44-4b6d-aef2-685b315d8140)
+![popup](https://github.com/user-attachments/assets/d644dcf0-48c3-4438-b981-464d5aeeb5eb)
+![new_recommendation](https://github.com/user-attachments/assets/ba854008-62c4-4b4d-bc42-2a9c1c981216)
+![nav_bar](https://github.com/user-attachments/assets/08c51dd2-9473-48b2-ac59-33408861b881)
+![home-icon](https://github.com/user-attachments/assets/2764cd6f-8cca-4f0c-83fd-4b8efeb8b0f4)
+![about me](https://github.com/user-attachments/assets/21d6edec-b933-411b-a88b-267c9ba91cb3)
 this directory has all images used in the final project
